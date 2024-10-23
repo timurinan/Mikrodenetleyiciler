@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=Uygulama2.mcppi
+Project1=..\MikroC Ornekler\Uygulama3.mcppi
+Project2=Uygulama3.mcppi
+[ActiveProject]
+Index=2
