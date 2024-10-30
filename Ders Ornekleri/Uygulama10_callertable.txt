@@ -1,0 +1,3 @@
+main
+	mod2
+	mod1
