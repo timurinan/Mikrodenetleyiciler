@@ -1,0 +1,17 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"C:\Users\PC\Desktop\Ders Ornekleri\Uygulama20.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\PC\Desktop\Ders Ornekleri\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Uygulama20.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Uygulama20.c
+error: 1	371	Specifier needed	Uygulama20.c
+error: 1	402	; expected, but 'file' found	Uygulama20.c
+error: 1	402	; expected, but 'generated' found	Uygulama20.c
+error: 1	402	; expected, but 'by' found	Uygulama20.c
+error: 1	402	; expected, but 'mikroListExporter' found	Uygulama20.c
+error: 1	402	; expected, but '-' found	Uygulama20.c
+error: 1	371	Specifier needed	Uygulama20.c
+error: 1	396	Invalid declarator expected'(' or identifier	Uygulama20.c
+error: 2	402	; expected, but '/' found	Uygulama20.c
+error: 2	371	Specifier needed	Uygulama20.c
+error: 2	396	Invalid declarator expected'(' or identifier	Uygulama20.c
+error: 3	393	'' Identifier redefined	Uygulama20.c
+error: 3	312	Internal error ''	Uygulama20.c
+error: 0	102	Finished (with errors): 18 Ara 2024, 16:23:18	Uygulama20.mcppi
